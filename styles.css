@@ -9,9 +9,11 @@
   margin: 50px auto;
 }
 
-p {
+div {
+  text-align: center;
   display: block;
   width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  margin: 90px auto;
+  font: 30px Arial, Helvetica, sans-serif;
+  color: rgb(16, 79, 82);  
 }
